@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>210</x>
+      <y>10</y>
+      <w>210</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>Programm
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>210</x>
+      <y>430</y>
+      <w>210</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>Umrechnen
+--
+-Währung
+-Zahlen
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>210</x>
+      <y>220</y>
+      <w>210</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>Design
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
